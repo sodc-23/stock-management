@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'maven-regular';
+  src: url('MavenPro-Regular.eot'); /* IE9 Compat Modes */
+  src: url('MavenPro-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('MavenPro-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('MavenPro-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('MavenPro-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('MavenPro-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'maven-medium';
+  src: url('MavenPro-Medium.eot'); /* IE9 Compat Modes */
+  src: url('MavenPro-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('MavenPro-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+       url('MavenPro-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+       url('MavenPro-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('MavenPro-Medium.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'maven-bold';
+  src: url('MavenPro-Bold.eot'); /* IE9 Compat Modes */
+  src: url('MavenPro-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('MavenPro-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('MavenPro-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+       url('MavenPro-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('MavenPro-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'maven-extra-bold';
+  src: url('MavenPro-Black.eot'); /* IE9 Compat Modes */
+  src: url('MavenPro-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('MavenPro-Black.woff2') format('woff2'), /* Super Modern Browsers */
+       url('MavenPro-Black.woff') format('woff'), /* Pretty Modern Browsers */
+       url('MavenPro-Black.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('MavenPro-Black.svg#svgFontName') format('svg'); /* Legacy iOS */
+}

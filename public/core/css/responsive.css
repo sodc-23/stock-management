@@ -1,0 +1,86 @@
+@media only screen and (max-width: 330px){
+    .res_fontsize13px{font-size:13px !important;}
+    .res_text_align_center{text-align: center !important;}
+    .res_text_align_left{text-align: left !important;}
+    .res_text_align_right{text-align: right !important;}
+    .res_center{margin-left: auto !important; margin-right: auto !important;}
+    .res_clear{clear: both !important; float: none !important;}
+    .res_fullwidth{width: 100%;}
+    .res_hide{display: none !important;}
+    .res_show{display: block !important;}
+    .res_zero_border{border:none!important;}
+    #res_nav{display: block;}
+    #megamitch_logo{width: 270px; height: 115px; background-size: 270px; height: 115px;}
+    #menu_sidebar{ display: none;}
+    #main_content{width: 100%; padding: 0px;}
+    .navbar-nav{margin: 0px !important;}
+    #res_menu_holder{height: calc(100vh - 50px);overflow: auto;}
+}
+@media only screen and (max-width: 490px){
+    .res_fontsize13px{font-size:13px !important;}
+    .res_text_align_center{text-align: center !important;}
+    .res_text_align_left{text-align: left !important;}
+    .res_text_align_right{text-align: right !important;}
+    .res_center{margin-left: auto !important; margin-right: auto !important;}
+    .res_clear{clear: both !important; float: none !important;}
+    .res_fullwidth{width: 100%;}
+    .res_hide{display: none !important;}
+    .res_zero_border{border:none!important;}
+    #res_nav{display: block;}
+    #megamitch_logo{width: 270px; height: 115px; background-size: 270px; height: 115px;}
+    #menu_sidebar{ display: none;}
+    #main_content{width: 100%; padding: 0px;}
+    .navbar-nav{margin: 0px !important;}
+    #res_menu_holder{height: calc(100vh - 50px);overflow: auto;}
+
+   
+}
+@media only screen and (max-width: 660px){
+    .res_text_align_center{text-align: center !important;}
+    .res_text_align_left{text-align: left !important;}
+    .res_text_align_right{text-align: right !important;}
+    .res_center{margin-left: auto !important; margin-right: auto !important;}
+    .res_clear{clear: both !important; float: none !important;}
+    .res_fullwidth{width: 100%;}
+    .res_hide{display: none !important;}
+    .res_show{display: block !important;}
+    #res_nav{display: block;}
+    .res_zero_border{border:none!important;}
+    #megamitch_logo{width: 270px; height: 115px; background-size: 270px; height: 115px;}
+    #menu_sidebar{ display: none;}
+    #main_content{width: 100%; padding: 0px;}
+    .navbar-nav{margin: 0px !important;}
+    #res_menu_holder{height: calc(100vh - 50px);overflow: auto;}
+
+}
+@media only screen and (max-width: 770px){
+    .res_text_align_center{text-align: center !important;}
+    .res_text_align_left{text-align: left !important;}
+    .res_text_align_right{text-align: right !important;}
+    .res_center{margin-left: auto !important; margin-right: auto !important;}
+    .res_clear{clear: both !important; float: none !important;}
+    .res_show{display: block !important;}
+    .res_fullwidth{width: 100%;}
+    .res_hide{display: none !important;}
+    #res_nav{display: block;}
+    #megamitch_logo{width: 270px; height: 115px; background-size: 270px; height: 115px;}
+    #menu_sidebar{ display: none;}
+    #main_content{width: 100%; padding: 0px;}
+    .navbar-nav{margin: 0px !important;}
+    #res_menu_holder{height: calc(100vh - 50px);overflow: auto;}
+}
+@media only screen and (min-width:768px){
+    .col-sm-2{
+        width: 48.66666667% !important;
+    }
+}
+@media only screen and (min-width:1280px){
+    .col-sm-2{
+        width: 18.66666667% !important;
+    }
+}
+@media only screen and (min-width:1366px){
+    .col-sm-2{
+        width: 16.66666667% !important;
+    }
+}

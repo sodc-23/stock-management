@@ -1,0 +1,55 @@
+body{
+	background:#ededed url('../media/images/medical.jpg') no-repeat;
+	background-size:cover;
+	font: 300 15px 'Roboto', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+/* ########################### D E F A U L T  ########################### */
+#logo{
+	font-size:18px;
+	margin:15px 0px 20px 0px;
+	text-align:center;
+	color:#ffffff;
+	font-family: 'maven-extra-bold',sans-serif;
+}
+#logo2{
+	font-size:18px;
+	color:#ffffff;
+	font-family: 'maven-extra-bold',sans-serif;
+	padding:15px 10px;
+}
+#logo2 span{font-family: 'maven-bold',sans-serif;}
+#logo2:hover{text-decoration:none;}
+#top-nav ul{padding:0px;display:table;margin:0px;}
+#top-nav ul li{float:left;}
+#top-nav ul li a{
+	color:#ffffff;
+	font-size: 18px;
+	padding: 15px 10px;
+	display:block;
+}
+#top-nav ul li > a.j_active_state{
+	outline:none;
+	background:rgba(255,255,255,0.5);
+	text-decoration: none;
+}
+.title{
+	font-size:18px;
+	padding:0px;
+	margin:0px;
+	font-weight:500;
+	padding-bottom:7px;
+}
+#notification-container #notifications-holder li{
+	border-bottom:1px solid #ffffff;
+	padding:2px 0px;
+	font-size:13px;
+}
+#notification-container #notifications-holder li a{
+	text-decoration:none;
+	color:#ffffff;
+}
+#notification-container #notifications-holder li:last-child{
+	border:none!important;
+}

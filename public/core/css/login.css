@@ -1,0 +1,10 @@
+#login-wrapper{
+	width:300px;
+	position:fixed;
+	top:0px;
+	left:0px;
+	z-index:99;
+	padding:15px;
+	background-color:rgba(255,255,255,0.3);
+	border:2px solid #ffffff;
+}

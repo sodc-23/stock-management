@@ -1,0 +1,63 @@
+#gallery-items-container{min-height:100px;,max-height:200px;}
+#gallery-items-container a {
+  font-size: 16px;
+  overflow: hidden;
+  display: inline-block;
+  margin-bottom: 8px;
+  width: calc(50% - 4px);
+  margin-right: 8px;
+
+  box-sizing: border-box;
+ -moz-box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+}
+
+#gallery-items-container a:nth-of-type(2n) {
+  margin-right: 0;
+}
+
+@media screen and (min-width: 50em) {
+  #gallery-items-container a {
+    width: calc(25% - 6px);
+  }
+  
+  #gallery-items-container a:nth-of-type(2n) {
+    margin-right: 8px;
+  }
+  
+  #gallery-items-container a:nth-of-type(4n) {
+    margin-right: 0;
+  }
+}
+
+#gallery-items-container a:hover img {
+  transform: scale(1.15);
+}
+
+#gallery-items-container figure {
+  margin: 0;
+}
+
+#gallery-items-container img {
+  border: none;
+  max-width: 100%;
+  display: block;
+  background: #ccc;
+  transition: transform .2s ease-in-out;
+}
+#gallery-items-container .p a {
+  display: inline;
+  font-size: 13px;
+  margin: 0;
+}
+
+#gallery-items-container .p {
+  text-align: center;
+  font-size: 13px;
+  padding-top: 100px;
+}
+.statusBar{margin-top:5px;}
+.progressBar{border:1px solid #ffffff;}
+.progressBar div{background:#ffffff;}
+#inventory-table thead th:first-child,#inventory-table tbody td:first-child{width:25px!important;}
+.dt_dont_click:after{content:''!important;}
